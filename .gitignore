@@ -1,2 +1,4 @@
 node_modules
 *.csv
+detectorPorGrid.js
+execucoes.js

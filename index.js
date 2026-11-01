@@ -4,7 +4,7 @@ const csv = require('csv-parser');
 
 const RADIO_TERRA_METROS = 6371000;
 const LIMITE_DISTANCIA_METROS = 20;
-const CAMINHO_CSV = './datasets/dataset7.csv';
+const CAMINHO_CSV = './datasets/dataset1.csv';
 const PASTA_OUTPUT = './output';
 const ARQUIVO_SAIDA = path.join(PASTA_OUTPUT, 'encontros.json');
 
